@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T12:30:36.770Z",
+  "generated_at": "2026-11-07T06:09:33.161Z",
   "events": [
     {
       "race_name": "Corrida IBOA 16 Anos 2026",
@@ -117,6 +117,25 @@
       "visual_code": "brasil-rj"
     },
     {
+      "race_name": "5ª Corrida da Guarda Municipal de Niterói 2026",
+      "edition": "5ª (2026)",
+      "start_date": "2026-11-22",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "RJ",
+      "city": "Niterói",
+      "region": "América do Sul",
+      "modalities": "Rua | Caminhada",
+      "distances": "5 km corrida; 3 km caminhada",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://tickets.siuni.com.br/eventos/corridadaguardaniteroi",
+      "signup_url": "https://tickets.siuni.com.br/eventos/corridadaguardaniteroi",
+      "article_url": "https://viajarcorrendo.com.br/2024/08/o-que-fazer-em-niteroi.html",
+      "checked_at": "2026-11-06",
+      "visual_code": "brasil-rj"
+    },
+    {
       "race_name": "5ª Corrida da Guarda Municipal de Niterói 2026 — Kids",
       "edition": "5ª (2026)",
       "start_date": "2026-11-22",
@@ -152,6 +171,25 @@
       "signup_url": "https://www.riorunningtour.com.br/event-details/correndo-para-o-pao-de-acucar-edicao-5km-de-novembro-de-2026",
       "article_url": "",
       "checked_at": "2026-11-05",
+      "visual_code": "brasil-rj"
+    },
+    {
+      "race_name": "Corridas Populares RJ — 5ª Etapa Macaé 2026",
+      "edition": "5ª etapa (2026)",
+      "start_date": "2026-11-22",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "RJ",
+      "city": "Macaé",
+      "region": "América do Sul",
+      "modalities": "Rua | Caminhada",
+      "distances": "5 km e 10 km corrida; 3 km caminhada",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://tickets.siuni.com.br/eventos/5-etapa-corridas-populares-rj-macae",
+      "signup_url": "https://tickets.siuni.com.br/eventos/5-etapa-corridas-populares-rj-macae",
+      "article_url": "",
+      "checked_at": "2026-11-06",
       "visual_code": "brasil-rj"
     },
     {
@@ -704,6 +742,25 @@
       "article_url": "",
       "checked_at": "2026-10-28",
       "visual_code": "brasil-pa"
+    },
+    {
+      "race_name": "Las Vegas Marathon 2027",
+      "edition": "2027",
+      "start_date": "2027-01-10",
+      "end_date": "",
+      "country": "Estados Unidos",
+      "state_code": "Nevada",
+      "city": "Las Vegas",
+      "region": "América do Norte",
+      "modalities": "Rua",
+      "distances": "42,195 km; 21,097 km; 7,02 milhas (aprox. 11,30 km)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://vegasmarathon.com/",
+      "signup_url": "https://vegasmarathon.com/",
+      "article_url": "",
+      "checked_at": "2026-11-06",
+      "visual_code": "internacional-america-norte"
     },
     {
       "race_name": "Huilo Huilo Outdoor Experience 2027 — Trail",
@@ -2036,6 +2093,25 @@
       "visual_code": "brasil-sc"
     },
     {
+      "race_name": "Mountain Do Praia do Rosa 2027 — Kids",
+      "edition": "2027",
+      "start_date": "2027-04-03",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "SC",
+      "city": "Imbituba (Praia do Rosa)",
+      "region": "América do Sul",
+      "modalities": "Kids",
+      "distances": "A confirmar",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://mountaindo.com.br/raizes/praiadorosa/",
+      "signup_url": "https://mountaindo.com.br/raizes/praiadorosa/",
+      "article_url": "",
+      "checked_at": "2026-11-06",
+      "visual_code": "brasil-sc"
+    },
+    {
       "race_name": "Atacama Crossing (Chile) 2027",
       "edition": "19ª edição (2027)",
       "start_date": "2027-04-04",
@@ -2701,6 +2777,44 @@
       "visual_code": "internacional-africa"
     },
     {
+      "race_name": "Beneva Calgary Marathon Race Weekend 2027",
+      "edition": "2027",
+      "start_date": "2027-05-29",
+      "end_date": "2027-05-30",
+      "country": "Canadá",
+      "state_code": "Alberta",
+      "city": "Calgary",
+      "region": "América do Norte",
+      "modalities": "Rua | Kids",
+      "distances": "42,2 km; 21,1 km; 10 km; 5 km; Kids Race e Diaper Dash (distâncias a confirmar)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://calgarymarathon.com/info/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-06",
+      "visual_code": "internacional-america-norte"
+    },
+    {
+      "race_name": "Ottawa Kids Marathon 2027",
+      "edition": "2027",
+      "start_date": "2027-05-29",
+      "end_date": "",
+      "country": "Canadá",
+      "state_code": "Ontário",
+      "city": "Ottawa",
+      "region": "América do Norte",
+      "modalities": "Kids",
+      "distances": "1,2 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.runottawa.ca/races-and-events/ottawa-kids-marathon/",
+      "signup_url": "https://www.runottawa.ca/races-and-events/ottawa-kids-marathon/",
+      "article_url": "https://viajarcorrendo.com.br/2016/11/quatro-atracoes-imperdiveis-em-ottawa.html",
+      "checked_at": "2026-11-06",
+      "visual_code": "internacional-america-norte"
+    },
+    {
       "race_name": "Santiago Trail Race — Kids 3K 2027",
       "edition": "2027",
       "start_date": "2027-05-29",
@@ -2737,6 +2851,25 @@
       "article_url": "",
       "checked_at": "2026-10-31",
       "visual_code": "internacional-america-sul"
+    },
+    {
+      "race_name": "Tamarack Ottawa Race Weekend 2027",
+      "edition": "2027",
+      "start_date": "2027-05-29",
+      "end_date": "2027-05-30",
+      "country": "Canadá",
+      "state_code": "Ontário",
+      "city": "Ottawa",
+      "region": "América do Norte",
+      "modalities": "Rua",
+      "distances": "2, 5, 10, 21,097 e 42,195 km; desafios combinados",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.runottawa.ca/",
+      "signup_url": "https://www.runottawa.ca/",
+      "article_url": "https://viajarcorrendo.com.br/2017/05/maratona-de-ottawa-pelas-ruas-da.html",
+      "checked_at": "2026-11-06",
+      "visual_code": "internacional-america-norte"
     },
     {
       "race_name": "Brisbane Marathon Festival 2027",
@@ -2984,6 +3117,25 @@
       "article_url": "",
       "checked_at": "2026-10-21",
       "visual_code": "internacional-oceania"
+    },
+    {
+      "race_name": "San Francisco Marathon 2027",
+      "edition": "2027",
+      "start_date": "2027-07-24",
+      "end_date": "2027-07-25",
+      "country": "Estados Unidos",
+      "state_code": "Califórnia",
+      "city": "San Francisco",
+      "region": "América do Norte",
+      "modalities": "Rua",
+      "distances": "42,195 km; 21,097 km; 10 km; 5 km; ultramaratona 52,4 milhas",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.thesfmarathon.com/2027-50th-anniversary/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-06",
+      "visual_code": "internacional-america-norte"
     },
     {
       "race_name": "Media Maratón de Bogotá 2027",
