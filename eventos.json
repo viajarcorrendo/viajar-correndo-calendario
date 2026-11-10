@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T06:09:32.541Z",
+  "generated_at": "2026-11-10T06:09:32.726Z",
   "events": [
     {
       "race_name": "Corrida do Fogo — Sena Madureira 2026",
@@ -2302,6 +2302,25 @@
       "visual_code": "internacional-africa"
     },
     {
+      "race_name": "Correndo pelo Túnel do Tempo — 2027-02",
+      "edition": "2027",
+      "start_date": "2027-02-28",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "RJ",
+      "city": "Rio de Janeiro",
+      "region": "América do Sul",
+      "modalities": "Run Experience",
+      "distances": "4 km de corrida",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.riorunningtour.com.br/event-details/run-experience-tunel-correndo-pelo-tunel-do-tempo-edicao-4km-de-fevereiro-de-2027",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-09",
+      "visual_code": "brasil-rj"
+    },
+    {
       "race_name": "Osaka Marathon 2027",
       "edition": "2027",
       "start_date": "2027-02-28",
@@ -3231,6 +3250,25 @@
       "article_url": "",
       "checked_at": "2026-11-08",
       "visual_code": "internacional-africa"
+    },
+    {
+      "race_name": "Wizz Air Milano Marathon 2027",
+      "edition": "2027",
+      "start_date": "2027-04-04",
+      "end_date": "",
+      "country": "Itália",
+      "state_code": "",
+      "city": "Milão",
+      "region": "Europa",
+      "modalities": "Rua",
+      "distances": "42,195 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.milanomarathon.it/en/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-09",
+      "visual_code": "internacional-europa"
     },
     {
       "race_name": "Patagonia Run 2027 — San Martín de los Andes",
@@ -4582,6 +4620,25 @@
       "visual_code": "internacional-asia"
     },
     {
+      "race_name": "Zugspitz Ultra Trail by UTMB 2027",
+      "edition": "2027",
+      "start_date": "2027-06-17",
+      "end_date": "2027-06-20",
+      "country": "Alemanha",
+      "state_code": "",
+      "city": "Garmisch-Partenkirchen",
+      "region": "Europa",
+      "modalities": "Trail",
+      "distances": "16 km, 29 km, 44 km, 68,5 km, 86 km, 107 km, 167 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://zugspitz.utmb.world/de",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-09",
+      "visual_code": "internacional-europa"
+    },
+    {
       "race_name": "Rwanda Impact Marathon 2027",
       "edition": "2027",
       "start_date": "2027-06-19",
@@ -4637,6 +4694,25 @@
       "article_url": "",
       "checked_at": "2026-11-08",
       "visual_code": "brasil-sc"
+    },
+    {
+      "race_name": "La Sportiva Lavaredo Ultra Trail by UTMB 2027",
+      "edition": "2027",
+      "start_date": "2027-06-23",
+      "end_date": "2027-06-27",
+      "country": "Itália",
+      "state_code": "",
+      "city": "Cortina d'Ampezzo",
+      "region": "Europa",
+      "modalities": "Trail",
+      "distances": "10 km, 20 km, 50 km, 80 km, 120 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://lavaredo.utmb.world/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-09",
+      "visual_code": "internacional-europa"
     },
     {
       "race_name": "Torrencial Chile by UTMB 2027",
