@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T06:09:32.726Z",
+  "generated_at": "2026-11-11T06:09:35.386Z",
   "events": [
     {
       "race_name": "Corrida do Fogo — Sena Madureira 2026",
@@ -1504,6 +1504,25 @@
       "visual_code": "internacional-asia"
     },
     {
+      "race_name": "Tata Mumbai Marathon 2027",
+      "edition": "22ª",
+      "start_date": "2027-01-17",
+      "end_date": "",
+      "country": "Índia",
+      "state_code": "Maharashtra",
+      "city": "Mumbai",
+      "region": "Ásia",
+      "modalities": "Rua",
+      "distances": "42,195 km; 21,097 km; 10 km; Dream Run 5,9 km; outras categorias 4,2 e 1,3 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://tatamumbaimarathon.procam.in/news-media/latest-news/tata-mumbai-marathon-2027-opens-registrations",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-11",
+      "visual_code": "internacional-asia"
+    },
+    {
       "race_name": "Two Bays Trail Run 2027",
       "edition": "2027",
       "start_date": "2027-01-17",
@@ -1920,6 +1939,25 @@
       "article_url": "",
       "checked_at": "2026-10-28",
       "visual_code": "brasil-pa"
+    },
+    {
+      "race_name": "Bodh Gaya Marathon 2027",
+      "edition": "4ª",
+      "start_date": "2027-02-14",
+      "end_date": "",
+      "country": "Índia",
+      "state_code": "Bihar",
+      "city": "Bodh Gaya",
+      "region": "Ásia",
+      "modalities": "Rua",
+      "distances": "42,195 km; 21,097 km; 10 km; 5 km; 3 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.bodhgayamarathon.com/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-11",
+      "visual_code": "internacional-asia"
     },
     {
       "race_name": "Media Maratón Ruta de los Ulmos 2027",
@@ -2511,6 +2549,25 @@
       "visual_code": "internacional-asia"
     },
     {
+      "race_name": "Ultra ASIA Race 2027",
+      "edition": "2027",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-11",
+      "country": "Vietnã",
+      "state_code": "",
+      "city": "Mai Châu",
+      "region": "Ásia",
+      "modalities": "Trail | Ultramaratona",
+      "distances": "160 km em 4 etapas (31+49+31+49 km)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.canal-aventure.com/en/ultra-asia-race",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-11",
+      "visual_code": "internacional-asia"
+    },
+    {
       "race_name": "El Reto del Indio 2027",
       "edition": "2027",
       "start_date": "2027-03-12",
@@ -2718,6 +2775,25 @@
       "article_url": "",
       "checked_at": "2026-10-22",
       "visual_code": "internacional-africa"
+    },
+    {
+      "race_name": "Dalat Ultra Trail 2027",
+      "edition": "2027",
+      "start_date": "2027-03-18",
+      "end_date": "2027-03-21",
+      "country": "Vietnã",
+      "state_code": "Lâm Đồng",
+      "city": "Đà Lạt",
+      "region": "Ásia",
+      "modalities": "Trail | Ultramaratona",
+      "distances": "5 km; 15 km; 21 km (2 dias); 50 km; 75 km; 110 km; 160 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://raceroster.com/events/2027/165784/dalat-ultra-trail-2027",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-11",
+      "visual_code": "internacional-asia"
     },
     {
       "race_name": "INDOMIT Columbia Pedra do Baú 2027",
@@ -3117,6 +3193,25 @@
       "article_url": "",
       "checked_at": "2026-11-06",
       "visual_code": "brasil-sc"
+    },
+    {
+      "race_name": "Mustang Trail Race 2027",
+      "edition": "2027",
+      "start_date": "2027-04-03",
+      "end_date": "2027-04-15",
+      "country": "Nepal",
+      "state_code": "Gandaki",
+      "city": "Mustang",
+      "region": "Ásia",
+      "modalities": "Trail | Ultramaratona",
+      "distances": "170 km em 8 etapas",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://mustangtrailrace.com/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-11",
+      "visual_code": "internacional-asia"
     },
     {
       "race_name": "Two Oceans Marathon 2027 — Half Marathon",
@@ -4031,6 +4126,25 @@
       "visual_code": "internacional-europa"
     },
     {
+      "race_name": "Rinjani100 2027",
+      "edition": "14ª",
+      "start_date": "2027-05-07",
+      "end_date": "2027-05-09",
+      "country": "Indonésia",
+      "state_code": "Nusa Tenggara Ocidental",
+      "city": "Lombok",
+      "region": "Ásia",
+      "modalities": "Trail | Ultramaratona",
+      "distances": "12 km; 27 km; 36 km; 60 km; 100 km; 162 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://fonesport.id/rinjani100",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-11",
+      "visual_code": "internacional-asia"
+    },
+    {
       "race_name": "Copenhagen Marathon 2027",
       "edition": "2027",
       "start_date": "2027-05-09",
@@ -4105,6 +4219,25 @@
       "article_url": "",
       "checked_at": "2026-11-08",
       "visual_code": "internacional-oceania"
+    },
+    {
+      "race_name": "Pedra Grande Ultra Trail Challenge 2027",
+      "edition": "7ª (2027)",
+      "start_date": "2027-05-14",
+      "end_date": "2027-05-16",
+      "country": "Brasil",
+      "state_code": "SP",
+      "city": "Atibaia",
+      "region": "América do Sul",
+      "modalities": "Trail",
+      "distances": "7 km; 15 km; 25 km; 35 km; 55 km; 80 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://pedragrandetrailrunners.com.br/pgutc",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-11",
+      "visual_code": "brasil-sp"
     },
     {
       "race_name": "Correndo para o Pão de Açúcar — 2027-05",
@@ -4506,6 +4639,25 @@
       "visual_code": "internacional-america-norte"
     },
     {
+      "race_name": "Ultra Trail Chattanooga by UTMB 2027",
+      "edition": "2027",
+      "start_date": "2027-06-04",
+      "end_date": "2027-06-06",
+      "country": "Estados Unidos",
+      "state_code": "TN",
+      "city": "Chattanooga",
+      "region": "América do Norte",
+      "modalities": "Trail",
+      "distances": "100 km; 50,5 km; 20,5 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://chattanooga.utmb.world/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-11",
+      "visual_code": "internacional-america-norte"
+    },
+    {
       "race_name": "KLM Aruba Marathon 2027 — 9ª edição",
       "edition": "9ª edição (2027)",
       "start_date": "2027-06-05",
@@ -4560,6 +4712,25 @@
       "signup_url": "",
       "article_url": "",
       "checked_at": "2026-10-27",
+      "visual_code": "internacional-asia"
+    },
+    {
+      "race_name": "Jakarta International Marathon 2027",
+      "edition": "2027",
+      "start_date": "2027-06-12",
+      "end_date": "2027-06-13",
+      "country": "Indonésia",
+      "state_code": "Jacarta",
+      "city": "Jacarta",
+      "region": "Ásia",
+      "modalities": "Rua",
+      "distances": "42,195 km; 21,097 km; 10 km; 5 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.jakim.id/pre-race",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-11",
       "visual_code": "internacional-asia"
     },
     {
@@ -4770,6 +4941,25 @@
       "article_url": "",
       "checked_at": "2026-10-23",
       "visual_code": "internacional-america-norte"
+    },
+    {
+      "race_name": "Mountain Do Chapada dos Veadeiros 2027",
+      "edition": "2027",
+      "start_date": "2027-06-27",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "GO",
+      "city": "Alto Paraíso de Goiás",
+      "region": "América do Sul",
+      "modalities": "Trail | Kids",
+      "distances": "21 km; 14 km; 7 km; Kids (distância não informada)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://mountaindo.com.br/raizes/chapadadosveadeiros/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-11",
+      "visual_code": "brasil-go"
     },
     {
       "race_name": "Mac Mac Ultra 2027",
