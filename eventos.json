@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T06:09:35.386Z",
+  "generated_at": "2026-11-12T06:09:33.374Z",
   "events": [
     {
       "race_name": "Corrida do Fogo — Sena Madureira 2026",
@@ -1428,6 +1428,25 @@
       "visual_code": "internacional-america-sul"
     },
     {
+      "race_name": "2º Desafio da Cachoeira do Perequê — Peruíbe 2027",
+      "edition": "2ª edição",
+      "start_date": "2027-01-17",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "SP",
+      "city": "Peruíbe",
+      "region": "América do Sul",
+      "modalities": "Rua | percurso misto",
+      "distances": "aprox. 5 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://inscricoes.corridaeaventura.com.br/component/eventbooking/corrida-pedestre/1268-2-desafio-da-cachoeira-do-pereque-peruibe-2027-20261021165714",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-12",
+      "visual_code": "brasil-sp"
+    },
+    {
       "race_name": "Correndo com Personalidades Cariocas — 2027-01",
       "edition": "",
       "start_date": "2027-01-17",
@@ -1542,6 +1561,25 @@
       "visual_code": "internacional-oceania"
     },
     {
+      "race_name": "First Light Marathon 2027",
+      "edition": "2027",
+      "start_date": "2027-01-23",
+      "end_date": "",
+      "country": "Nova Zelândia",
+      "state_code": "Gisborne",
+      "city": "Gisborne",
+      "region": "Oceania",
+      "modalities": "Rua | percurso misto",
+      "distances": "42,2 km; 21,1 km; 6 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://first-light-marathon.com/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-12",
+      "visual_code": "internacional-oceania"
+    },
+    {
       "race_name": "21K Puerto Montt 2027",
       "edition": "2027",
       "start_date": "2027-01-24",
@@ -1559,6 +1597,25 @@
       "article_url": "",
       "checked_at": "2026-10-31",
       "visual_code": "internacional-america-sul"
+    },
+    {
+      "race_name": "2ª Corrida Lipão Gás 5 km — Barra Bonita 2027",
+      "edition": "2ª edição",
+      "start_date": "2027-01-24",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "SP",
+      "city": "Barra Bonita",
+      "region": "América do Sul",
+      "modalities": "Rua | Caminhada | Kids",
+      "distances": "5 km corrida e caminhada; Kids (distância não informada)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://inscricoes.corridaeaventura.com.br/component/eventbooking/corrida-pedestre/1260-2-corrida-lipao-gas-5km-20261015232401",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-12",
+      "visual_code": "brasil-sp"
     },
     {
       "race_name": "Navarino Trail 2027",
@@ -2207,6 +2264,25 @@
       "visual_code": "internacional-oceania"
     },
     {
+      "race_name": "Trail Run Australia Snowy Mountains 2027",
+      "edition": "2027",
+      "start_date": "2027-02-21",
+      "end_date": "",
+      "country": "Austrália",
+      "state_code": "NSW",
+      "city": "Snowy Mountains / Lake Crackenback",
+      "region": "Oceania",
+      "modalities": "Trail | Kids",
+      "distances": "51,6 km; 31,1 km; 21,9 km; 11,9 km; 4,8 km; Kids (distância não informada)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.trailrunaustralia.com.au/event/snowy-mountains/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-12",
+      "visual_code": "internacional-oceania"
+    },
+    {
       "race_name": "Trail Run Sertão 2027 — Várzea da Ema",
       "edition": "2027",
       "start_date": "2027-02-21",
@@ -2511,6 +2587,25 @@
       "visual_code": "brasil-am"
     },
     {
+      "race_name": "6ª Corrida da Mulher by AINDA — Limeira 2027",
+      "edition": "6ª edição",
+      "start_date": "2027-03-07",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "SP",
+      "city": "Limeira",
+      "region": "América do Sul",
+      "modalities": "Rua | Caminhada",
+      "distances": "5 km corrida; 3,5 km caminhada",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://inscricoes.corridaeaventura.com.br/event/corrida-pedestre/1257-corrida-da-mulher-by-ainda-woman-s-race-6-edicao-20261013090727",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-12",
+      "visual_code": "brasil-sp"
+    },
+    {
       "race_name": "Tokyo Marathon 2027",
       "edition": "20ª edição / 2027",
       "start_date": "2027-03-07",
@@ -2603,6 +2698,25 @@
       "signup_url": "",
       "article_url": "",
       "checked_at": "2026-10-28",
+      "visual_code": "internacional-oceania"
+    },
+    {
+      "race_name": "Trail Run Australia Tathra 2027",
+      "edition": "2027",
+      "start_date": "2027-03-13",
+      "end_date": "",
+      "country": "Austrália",
+      "state_code": "NSW",
+      "city": "Tathra",
+      "region": "Oceania",
+      "modalities": "Trail",
+      "distances": "29,8 km; 18,1 km; 6,2 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.trailrunaustralia.com.au/event/tathra/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-12",
       "visual_code": "internacional-oceania"
     },
     {
@@ -5114,6 +5228,25 @@
       "visual_code": "internacional-oceania"
     },
     {
+      "race_name": "UDA — Ultrarundan Desafio do Araguaia Nacional 2027",
+      "edition": "2027",
+      "start_date": "2027-07-17",
+      "end_date": "2027-07-19",
+      "country": "Brasil",
+      "state_code": "GO",
+      "city": "Aragarças",
+      "region": "América do Sul",
+      "modalities": "Trail | Ultra",
+      "distances": "5 km; 10 km; 21 km; 58 km; 140 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://inscricoes.corridaeaventura.com.br/component/eventbooking/corrida-pedestre/1252-uda-ultrarundan-desafio-do-araguaia-nacional-2027-20261006142929",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-12",
+      "visual_code": "brasil-go"
+    },
+    {
       "race_name": "ASICS Run Melbourne 2027",
       "edition": "2027",
       "start_date": "2027-07-18",
@@ -5682,6 +5815,25 @@
       "article_url": "",
       "checked_at": "2026-10-29",
       "visual_code": "internacional-africa"
+    },
+    {
+      "race_name": "16ª Meia Maratona Solidária de Barra Bonita 2027",
+      "edition": "16ª edição",
+      "start_date": "2027-10-31",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "SP",
+      "city": "Barra Bonita",
+      "region": "América do Sul",
+      "modalities": "Rua | Caminhada | Kids",
+      "distances": "21 km; 7 km; caminhada 4,5 km; Kids (distância não informada)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://inscricoes.corridaeaventura.com.br/event/corrida-pedestre/1270-16-meia-maratona-solidaria-de-barra-bonita-2027-20261102171834",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-12",
+      "visual_code": "brasil-sp"
     },
     {
       "race_name": "TCS New York City Marathon 2027",
