@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T06:09:33.374Z",
+  "generated_at": "2026-11-13T06:09:32.793Z",
   "events": [
     {
       "race_name": "Corrida do Fogo — Sena Madureira 2026",
@@ -1561,6 +1561,25 @@
       "visual_code": "internacional-oceania"
     },
     {
+      "race_name": "Corrida de Reis de Trindade 2027",
+      "edition": "2027",
+      "start_date": "2027-01-23",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "GO",
+      "city": "Trindade",
+      "region": "América do Sul",
+      "modalities": "Rua",
+      "distances": "Distância não divulgada",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://inscricoes.corridaeaventura.com.br/component/eventbooking/corrida-pedestre/1261-corrida-de-reis-de-trindade",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-13",
+      "visual_code": "brasil-go"
+    },
+    {
       "race_name": "First Light Marathon 2027",
       "edition": "2027",
       "start_date": "2027-01-23",
@@ -2720,6 +2739,25 @@
       "visual_code": "internacional-oceania"
     },
     {
+      "race_name": "Trans Sahara Marathon 2027",
+      "edition": "2027",
+      "start_date": "2027-03-13",
+      "end_date": "2027-03-21",
+      "country": "Marrocos",
+      "state_code": "Drâa-Tafilalet",
+      "city": "Erg Chegaga / Zagora",
+      "region": "África",
+      "modalities": "Trail por etapas | Ultra | Trekking",
+      "distances": "138 km trail (4 etapas); 200 km non-stop; 80 km trekking (4 etapas)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://trans-sahara-marathon.com/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-13",
+      "visual_code": "internacional-africa"
+    },
+    {
       "race_name": "15ª Maratón de La Paz 2027",
       "edition": "15ª edição (2027)",
       "start_date": "2027-03-14",
@@ -3176,6 +3214,25 @@
       "visual_code": "internacional-africa"
     },
     {
+      "race_name": "Pass2Pass Ultra-Trail 2027",
+      "edition": "2027",
+      "start_date": "2027-04-02",
+      "end_date": "2027-04-04",
+      "country": "África do Sul",
+      "state_code": "Western Cape",
+      "city": "Bain's Kloof / Wellington",
+      "region": "África",
+      "modalities": "Trail | Ultra",
+      "distances": "100 km; 63 km; 45 km; 36 km; 25 km; 14 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.pass2passultra-trail.com/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-13",
+      "visual_code": "internacional-africa"
+    },
+    {
       "race_name": "Two Oceans Marathon 2027 — Trail Run",
       "edition": "2027",
       "start_date": "2027-04-02",
@@ -3613,6 +3670,25 @@
       "visual_code": "internacional-caribe"
     },
     {
+      "race_name": "1ª Corrida Concreto Imóveis 2027",
+      "edition": "1ª",
+      "start_date": "2027-04-11",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "SP",
+      "city": "Barra Bonita",
+      "region": "América do Sul",
+      "modalities": "Rua | Caminhada | Kids",
+      "distances": "7 km corrida; 3,5 km caminhada; Kids (distância não divulgada)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://inscricoes.corridaeaventura.com.br/component/eventbooking/corrida-pedestre/1266-1-corrida-concreto-imoveis-7km",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-13",
+      "visual_code": "brasil-sp"
+    },
+    {
       "race_name": "Oxpecker Trail Marathon 2027",
       "edition": "2027",
       "start_date": "2027-04-16",
@@ -3687,6 +3763,25 @@
       "article_url": "",
       "checked_at": "2026-11-08",
       "visual_code": "internacional-europa"
+    },
+    {
+      "race_name": "2ª Corrida das Torcidas 2027",
+      "edition": "2ª",
+      "start_date": "2027-04-18",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "SP",
+      "city": "Igaraçu do Tietê",
+      "region": "América do Sul",
+      "modalities": "Rua | Caminhada | Kids",
+      "distances": "5 km corrida e caminhada; Kids (distância não divulgada)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://inscricoes.corridaeaventura.com.br/component/eventbooking/corrida-pedestre/1202-2-corrida-das-torcidas-5-km",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-13",
+      "visual_code": "brasil-sp"
     },
     {
       "race_name": "ASICS Christchurch Marathon 2027",
@@ -4658,6 +4753,25 @@
       "visual_code": "brasil-rj"
     },
     {
+      "race_name": "Amazing Maasai Marathon 2027",
+      "edition": "2027",
+      "start_date": "2027-05-29",
+      "end_date": "",
+      "country": "Quênia",
+      "state_code": "Laikipia",
+      "city": "DolDol",
+      "region": "África",
+      "modalities": "Trail",
+      "distances": "42 km; 21 km; 10 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.amazinggirls.org/amazing-maasai-marathon-2027",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-13",
+      "visual_code": "internacional-africa"
+    },
+    {
       "race_name": "Beneva Calgary Marathon Race Weekend 2027",
       "edition": "2027",
       "start_date": "2027-05-29",
@@ -5475,6 +5589,25 @@
       "visual_code": "internacional-america-sul"
     },
     {
+      "race_name": "Tusker Lite Rwenzori Marathon 2027",
+      "edition": "2027",
+      "start_date": "2027-09-04",
+      "end_date": "",
+      "country": "Uganda",
+      "state_code": "Western Region",
+      "city": "Kasese",
+      "region": "África",
+      "modalities": "Rua",
+      "distances": "Distâncias da edição 2027 ainda não divulgadas",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.rwenzorimarathon.com/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-13",
+      "visual_code": "internacional-africa"
+    },
+    {
       "race_name": "11ª Trail Run Serra da Bodoquena 2027",
       "edition": "11ª (2027)",
       "start_date": "2027-09-11",
@@ -5738,6 +5871,25 @@
       "signup_url": "",
       "article_url": "",
       "checked_at": "2026-10-29",
+      "visual_code": "internacional-africa"
+    },
+    {
+      "race_name": "World Mountain and Trail Running Championships 2027",
+      "edition": "2027",
+      "start_date": "2027-10-06",
+      "end_date": "2027-10-10",
+      "country": "África do Sul",
+      "state_code": "Western Cape",
+      "city": "Cape Town",
+      "region": "África",
+      "modalities": "Trail | Montanha",
+      "distances": "Uphill; Classic; Classic U20; Short Trail; Long Trail (distâncias não anunciadas)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://worldathletics.org/news/press-releases/one-year-to-go-world-mountain-trail-running-championships-cape-town-2027",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-13",
       "visual_code": "internacional-africa"
     },
     {
