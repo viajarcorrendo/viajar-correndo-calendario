@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T06:09:32.793Z",
+  "generated_at": "2026-11-14T06:09:32.650Z",
   "events": [
     {
       "race_name": "Corrida do Fogo — Sena Madureira 2026",
@@ -361,6 +361,25 @@
       "signup_url": "https://www.riorunningtour.com.br/event-details/corrida-da-portela-2026",
       "article_url": "https://viajarcorrendo.com.br/2020/11/parque-madureira-rio-de-janeiro.html",
       "checked_at": "2026-11-08",
+      "visual_code": "brasil-rj"
+    },
+    {
+      "race_name": "Corrida e Samba — Etapa Orla de Iguabinha 2026",
+      "edition": "2026",
+      "start_date": "2026-11-22",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "RJ",
+      "city": "Araruama",
+      "region": "",
+      "modalities": "Rua | Caminhada",
+      "distances": "Corrida 4 km; caminhada 3 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://soinscricoes.com.br/evento/corrida-samba-araruama-orla-de-iguabinha",
+      "signup_url": "https://soinscricoes.com.br/evento/corrida-samba-araruama-orla-de-iguabinha",
+      "article_url": "",
+      "checked_at": "2026-11-14",
       "visual_code": "brasil-rj"
     },
     {
@@ -3081,6 +3100,25 @@
       "visual_code": "internacional-asia"
     },
     {
+      "race_name": "Times Square Kids Run at the United Airlines NYC Half",
+      "edition": "2027",
+      "start_date": "2027-03-21",
+      "end_date": "",
+      "country": "Estados Unidos",
+      "state_code": "NY",
+      "city": "Nova York",
+      "region": "América do Norte",
+      "modalities": "Kids",
+      "distances": "Kids: 1 milha (etapas 2 e 3); corridas curtas sem distância definida (etapa 1)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://prod.nyrr.org/races-and-events/2027/times-square-kids-run-at-the-united-airlines-nyc-half",
+      "signup_url": "https://prod.nyrr.org/races-and-events/2027/times-square-kids-run-at-the-united-airlines-nyc-half",
+      "article_url": "",
+      "checked_at": "2026-11-14",
+      "visual_code": "internacional-america-norte"
+    },
+    {
       "race_name": "United Airlines NYC Half 2027",
       "edition": "2027",
       "start_date": "2027-03-21",
@@ -4050,6 +4088,25 @@
       "visual_code": "internacional-america-sul"
     },
     {
+      "race_name": "Salt Lake City Marathon",
+      "edition": "2027",
+      "start_date": "2027-04-24",
+      "end_date": "",
+      "country": "Estados Unidos",
+      "state_code": "UT",
+      "city": "Salt Lake City",
+      "region": "América do Norte",
+      "modalities": "Rua",
+      "distances": "42,195 km; 21,097 km; 10 km; 5 km; Kids K",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.saltlakecitymarathon.com/Race/Events/UT/SaltLakeCity/saltlakecitymarathon",
+      "signup_url": "https://www.saltlakecitymarathon.com/Race/Events/UT/SaltLakeCity/saltlakecitymarathon",
+      "article_url": "",
+      "checked_at": "2026-11-14",
+      "visual_code": "internacional-america-norte"
+    },
+    {
       "race_name": "15K Abierta al Mar e 7,5K Valência 2027",
       "edition": "2027 (15ª edição 15K; 7ª edição 7,5K)",
       "start_date": "2027-04-25",
@@ -4658,6 +4715,25 @@
       "visual_code": "internacional-oceania"
     },
     {
+      "race_name": "Big Wolf’s Backyard Ultra – Lévis",
+      "edition": "2027",
+      "start_date": "2027-05-22",
+      "end_date": "",
+      "country": "Canadá",
+      "state_code": "QC",
+      "city": "Lévis",
+      "region": "América do Norte",
+      "modalities": "Trail / backyard ultra",
+      "distances": "Backyard Ultra: voltas de 6,706 km a cada hora",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://bigsbackyardultra.com/races/levis-backyard-ultra/",
+      "signup_url": "https://bigsbackyardultra.com/races/levis-backyard-ultra/",
+      "article_url": "",
+      "checked_at": "2026-11-14",
+      "visual_code": "internacional-america-norte"
+    },
+    {
       "race_name": "Rio do Rastro Marathon 2027 — O Renascimento",
       "edition": "",
       "start_date": "2027-05-22",
@@ -4981,6 +5057,25 @@
       "visual_code": "internacional-africa"
     },
     {
+      "race_name": "Lake Placid Marathon and Half Marathon",
+      "edition": "2027",
+      "start_date": "2027-06-13",
+      "end_date": "",
+      "country": "Estados Unidos",
+      "state_code": "NY",
+      "city": "Lake Placid",
+      "region": "América do Norte",
+      "modalities": "Rua",
+      "distances": "42,195 km; 21,097 km; 10 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://lakeplacidmarathon.com/home/register/",
+      "signup_url": "https://lakeplacidmarathon.com/home/register/",
+      "article_url": "",
+      "checked_at": "2026-11-14",
+      "visual_code": "internacional-america-norte"
+    },
+    {
       "race_name": "Trail of the Kings — Kids 2027",
       "edition": "2027",
       "start_date": "2027-06-13",
@@ -5207,6 +5302,25 @@
       "article_url": "",
       "checked_at": "2026-10-29",
       "visual_code": "internacional-africa"
+    },
+    {
+      "race_name": "Québec Mega Trail",
+      "edition": "2027",
+      "start_date": "2027-07-01",
+      "end_date": "",
+      "country": "Canadá",
+      "state_code": "QC",
+      "city": "Beaupré / Mont-Sainte-Anne",
+      "region": "América do Norte",
+      "modalities": "Trail",
+      "distances": "135; 80; 50; 32; 25; 15; 6; 1 km (categorias anunciadas)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://ultratrailcanada.com/",
+      "signup_url": "https://ultratrailcanada.com/",
+      "article_url": "",
+      "checked_at": "2026-11-14",
+      "visual_code": "internacional-america-norte"
     },
     {
       "race_name": "ASICS Gold Coast Marathon 2027",
@@ -5608,6 +5722,25 @@
       "visual_code": "internacional-africa"
     },
     {
+      "race_name": "Ultra-Trail Harricana of Canada",
+      "edition": "2027",
+      "start_date": "2027-09-10",
+      "end_date": "",
+      "country": "Canadá",
+      "state_code": "QC",
+      "city": "Charlevoix",
+      "region": "América do Norte",
+      "modalities": "Trail",
+      "distances": "5 a 125 km (faixa de categorias anunciada)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://ultratrailharricana.com/en/",
+      "signup_url": "https://ultratrailharricana.com/en/",
+      "article_url": "",
+      "checked_at": "2026-11-14",
+      "visual_code": "internacional-america-norte"
+    },
+    {
       "race_name": "11ª Trail Run Serra da Bodoquena 2027",
       "edition": "11ª (2027)",
       "start_date": "2027-09-11",
@@ -5625,6 +5758,25 @@
       "article_url": "",
       "checked_at": "2026-11-01",
       "visual_code": "brasil-ms"
+    },
+    {
+      "race_name": "Heroes and Villains Half Marathon Oklahoma City",
+      "edition": "2027",
+      "start_date": "2027-09-11",
+      "end_date": "",
+      "country": "Estados Unidos",
+      "state_code": "OK",
+      "city": "Oklahoma City",
+      "region": "América do Norte",
+      "modalities": "Rua / Kids",
+      "distances": "21,097 km; 6,55 milhas (quarto de maratona); 5 km; 1 milha; Kids Dash",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://runsignup.com/Race/OK/OklahomaCity/HeroesAndVillainsOklahomaCity",
+      "signup_url": "https://runsignup.com/Race/OK/OklahomaCity/HeroesAndVillainsOklahomaCity",
+      "article_url": "",
+      "checked_at": "2026-11-14",
+      "visual_code": "internacional-america-norte"
     },
     {
       "race_name": "SRUN Mountain Do Fernando de Noronha 2027",
@@ -5777,6 +5929,25 @@
       "article_url": "",
       "checked_at": "2026-10-31",
       "visual_code": "internacional-america-sul"
+    },
+    {
+      "race_name": "Clarence DeMar Marathon",
+      "edition": "2027",
+      "start_date": "2027-09-26",
+      "end_date": "",
+      "country": "Estados Unidos",
+      "state_code": "NH",
+      "city": "Keene",
+      "region": "América do Norte",
+      "modalities": "Rua / Kids",
+      "distances": "42,195 km; 21,097 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://clarencedemar.com/",
+      "signup_url": "https://clarencedemar.com/",
+      "article_url": "",
+      "checked_at": "2026-11-14",
+      "visual_code": "internacional-america-norte"
     },
     {
       "race_name": "GENERALI BERLIN-MARATHON 2027",
@@ -5986,6 +6157,25 @@
       "article_url": "",
       "checked_at": "2026-11-12",
       "visual_code": "brasil-sp"
+    },
+    {
+      "race_name": "CNO Financial Indianapolis Monumental Marathon",
+      "edition": "2027",
+      "start_date": "2027-11-06",
+      "end_date": "",
+      "country": "Estados Unidos",
+      "state_code": "IN",
+      "city": "Indianapolis",
+      "region": "América do Norte",
+      "modalities": "Rua",
+      "distances": "42,195 km; 21,097 km; 5 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://monumentalmarathon.com/participants/2027-faq/",
+      "signup_url": "https://monumentalmarathon.com/participants/2027-faq/",
+      "article_url": "",
+      "checked_at": "2026-11-14",
+      "visual_code": "internacional-america-norte"
     },
     {
       "race_name": "TCS New York City Marathon 2027",
