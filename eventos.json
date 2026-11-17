@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T06:09:32.353Z",
+  "generated_at": "2026-11-17T06:09:32.597Z",
   "events": [
     {
       "race_name": "Corrida Toca Raul Quatis 2026",
@@ -1882,6 +1882,25 @@
       "article_url": "",
       "checked_at": "2026-11-01",
       "visual_code": "internacional-america-central"
+    },
+    {
+      "race_name": "Alpe Adria Winter 2027",
+      "edition": "2027",
+      "start_date": "2027-02-07",
+      "end_date": "",
+      "country": "Itália",
+      "state_code": "",
+      "city": "Malborghetto Valbruna",
+      "region": "Europa",
+      "modalities": "Trail",
+      "distances": "25 km; 18 km; 10 km; 8 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.alpeadriaultra.com/en/dati-ufficiali-2027/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-17",
+      "visual_code": "internacional-europa"
     },
     {
       "race_name": "Night Run Energy 2027 — Coquimbo",
@@ -3993,6 +4012,25 @@
       "visual_code": "internacional-america-norte"
     },
     {
+      "race_name": "PIENINY by UTMB 2027",
+      "edition": "2027",
+      "start_date": "2027-04-22",
+      "end_date": "2027-04-25",
+      "country": "Polônia",
+      "state_code": "",
+      "city": "Szczawnica",
+      "region": "Europa",
+      "modalities": "Trail | Kids",
+      "distances": "137 km; 96 km; 65 km; 44 km; 33 km; 23 km; 13 km; 6,8 km; Mini Pieniny Kids 1 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://pieniny.utmb.world/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-17",
+      "visual_code": "internacional-europa"
+    },
+    {
       "race_name": "Canyons Endurance Runs by UTMB 2027",
       "edition": "2027",
       "start_date": "2027-04-23",
@@ -5171,6 +5209,25 @@
       "visual_code": "internacional-europa"
     },
     {
+      "race_name": "Alpe Adria Summer 2027",
+      "edition": "2027",
+      "start_date": "2027-06-18",
+      "end_date": "2027-06-20",
+      "country": "Itália",
+      "state_code": "",
+      "city": "Malborghetto Valbruna",
+      "region": "Europa",
+      "modalities": "Trail",
+      "distances": "120 km (117,9 km medidos); 55 km; 31 km (30,51 km medidos); 24 km; 12 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.alpeadriaultra.com/en/dati-ufficiali-2027/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-17",
+      "visual_code": "internacional-europa"
+    },
+    {
       "race_name": "Rwanda Impact Marathon 2027",
       "edition": "2027",
       "start_date": "2027-06-19",
@@ -5627,6 +5684,25 @@
       "visual_code": "internacional-europa"
     },
     {
+      "race_name": "Madrisa Trail Klosters 2027",
+      "edition": "2027",
+      "start_date": "2027-08-13",
+      "end_date": "2027-08-14",
+      "country": "Suíça",
+      "state_code": "",
+      "city": "Klosters",
+      "region": "Europa",
+      "modalities": "Trail | Kids",
+      "distances": "54 km; 33 km; 24 km; 11 km; Kids 200 m, 640 m, 1,2 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.madrisatrail.ch/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-17",
+      "visual_code": "internacional-europa"
+    },
+    {
       "race_name": "Maratón Internacional de Asunción 2027",
       "edition": "2027",
       "start_date": "2027-08-29",
@@ -5874,6 +5950,25 @@
       "visual_code": "internacional-america-norte"
     },
     {
+      "race_name": "Julian Alps Trail Run by UTMB 2027",
+      "edition": "2027",
+      "start_date": "2027-09-16",
+      "end_date": "2027-09-19",
+      "country": "Eslovênia",
+      "state_code": "",
+      "city": "Kranjska Gora",
+      "region": "Europa",
+      "modalities": "Trail",
+      "distances": "120K; 80K; 50K; 25K; 15K; 10K; Next Generation 10K",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://julianalps.utmb.world/races",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-17",
+      "visual_code": "internacional-europa"
+    },
+    {
       "race_name": "Wildcoast Wildrun 2027",
       "edition": "2027",
       "start_date": "2027-09-16",
@@ -5948,6 +6043,25 @@
       "article_url": "",
       "checked_at": "2026-10-30",
       "visual_code": "internacional-america-norte"
+    },
+    {
+      "race_name": "TOR30 Passage au Malatrà 2027",
+      "edition": "2027",
+      "start_date": "2027-09-18",
+      "end_date": "",
+      "country": "Itália",
+      "state_code": "",
+      "city": "Saint-Rhémy-en-Bosses / Courmayeur",
+      "region": "Europa",
+      "modalities": "Trail",
+      "distances": "30 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.torxtrail.com/tor30-passage-au-malatra/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-17",
+      "visual_code": "internacional-europa"
     },
     {
       "race_name": "Paraty Brazil by UTMB 2027",
