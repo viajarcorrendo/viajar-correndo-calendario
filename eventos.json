@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T06:09:32.504Z",
+  "generated_at": "2026-11-24T06:09:32.211Z",
   "events": [
     {
       "race_name": "1ª Corrida da Polícia Penal/IAPEN — Tarauacá 2026",
@@ -2965,6 +2965,25 @@
       "article_url": "",
       "checked_at": "2026-11-05",
       "visual_code": "brasil-rj"
+    },
+    {
+      "race_name": "Puesco Trail 2027",
+      "edition": "2027",
+      "start_date": "2027-02-27",
+      "end_date": "",
+      "country": "Chile",
+      "state_code": "Região de La Araucanía",
+      "city": "Curarrehue (Puesco Bajo)",
+      "region": "América do Sul",
+      "modalities": "Trail",
+      "distances": "7,5 km; 15 km; 35 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://welcu.com/puesco-trail/puesco-trail-2027",
+      "signup_url": "https://welcu.com/puesco-trail/puesco-trail-2027",
+      "article_url": "",
+      "checked_at": "2026-11-23",
+      "visual_code": "internacional-america-sul"
     },
     {
       "race_name": "São Bernardo Backyard — 2ª edição 2027",
@@ -6368,6 +6387,25 @@
       "visual_code": "internacional-america-norte"
     },
     {
+      "race_name": "Terras Altas Trail Run 2027",
+      "edition": "2027",
+      "start_date": "2027-07-01",
+      "end_date": "2027-07-04",
+      "country": "Brasil",
+      "state_code": "MG",
+      "city": "Itamonte",
+      "region": "América do Sul",
+      "modalities": "Trail",
+      "distances": "",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://terrasaltastrailrun.com.br/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-23",
+      "visual_code": "brasil-mg"
+    },
+    {
       "race_name": "ASICS Gold Coast Marathon 2027",
       "edition": "2027",
       "start_date": "2027-07-03",
@@ -7639,6 +7677,25 @@
       "article_url": "",
       "checked_at": "2026-10-29",
       "visual_code": "internacional-africa"
+    },
+    {
+      "race_name": "Corrida Meio Norte 2027 — Piauí em Movimento",
+      "edition": "2027",
+      "start_date": "2027-10-19",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "PI",
+      "city": "Teresina",
+      "region": "América do Sul",
+      "modalities": "Rua | Caminhada",
+      "distances": "Corrida 5 km; 10 km; 21 km; caminhada 3 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://inscricao.xcrono.com.br/e/corrida-meio-norte-piaui-em-movimento-2027",
+      "signup_url": "https://inscricao.xcrono.com.br/e/corrida-meio-norte-piaui-em-movimento-2027",
+      "article_url": "",
+      "checked_at": "2026-11-23",
+      "visual_code": "brasil-pi"
     },
     {
       "race_name": "Cape Cobra Trail Marathon 2027 — Strike III",
