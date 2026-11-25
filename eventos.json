@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T06:09:32.211Z",
+  "generated_at": "2026-11-25T06:09:32.193Z",
   "events": [
     {
       "race_name": "1ª Corrida da Polícia Penal/IAPEN — Tarauacá 2026",
@@ -1143,6 +1143,25 @@
       "visual_code": "internacional-europa"
     },
     {
+      "race_name": "1ª BR Summer Run 2027",
+      "edition": "1ª edição (2027)",
+      "start_date": "2027-01-09",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "PR",
+      "city": "Jardim Alegre",
+      "region": "América do Sul",
+      "modalities": "Rua | Caminhada",
+      "distances": "Corrida 5 km; caminhada 3 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://tvcomrunning.com.br/1-br-summer-run-jardim-alegre-pr",
+      "signup_url": "https://tvcomrunning.com.br/1-br-summer-run-jardim-alegre-pr",
+      "article_url": "",
+      "checked_at": "2026-11-24",
+      "visual_code": "brasil-pr"
+    },
+    {
       "race_name": "Correndo em Niterói — 2027-01",
       "edition": "",
       "start_date": "2027-01-09",
@@ -1922,6 +1941,25 @@
       "visual_code": "brasil-sc"
     },
     {
+      "race_name": "Corrida do Peixe 2027",
+      "edition": "2027",
+      "start_date": "2027-01-24",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "MG",
+      "city": "Perdizes",
+      "region": "América do Sul",
+      "modalities": "Rua",
+      "distances": "",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.rnsports.com.br/event-details/corrida-do-peixe-2027",
+      "signup_url": "https://www.rnsports.com.br/event-details/corrida-do-peixe-2027",
+      "article_url": "",
+      "checked_at": "2026-11-24",
+      "visual_code": "brasil-mg"
+    },
+    {
       "race_name": "Navarino Trail 2027",
       "edition": "8ª edição (2027)",
       "start_date": "2027-01-24",
@@ -2074,6 +2112,25 @@
       "visual_code": "internacional-asia"
     },
     {
+      "race_name": "11ª Batel Run 2027",
+      "edition": "11ª edição (2027)",
+      "start_date": "2027-01-31",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "PR",
+      "city": "Curitiba",
+      "region": "América do Sul",
+      "modalities": "Rua",
+      "distances": "5 km; 10 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://www.glpromo.com.br/eventos-esportivos/batel-run/156",
+      "signup_url": "https://www.glpromo.com.br/eventos-esportivos/batel-run/156",
+      "article_url": "",
+      "checked_at": "2026-11-24",
+      "visual_code": "brasil-pr"
+    },
+    {
       "race_name": "5º Desafio Eliésio Miranda 2027",
       "edition": "5ª (2027)",
       "start_date": "2027-01-31",
@@ -2186,6 +2243,25 @@
       "article_url": "",
       "checked_at": "2026-11-08",
       "visual_code": "internacional-asia"
+    },
+    {
+      "race_name": "Run Bahamas Marathon 2027",
+      "edition": "1ª edição (2027)",
+      "start_date": "2027-01-31",
+      "end_date": "",
+      "country": "Bahamas",
+      "state_code": "",
+      "city": "Nassau",
+      "region": "América Central",
+      "modalities": "Rua | Caminhada",
+      "distances": "5 km; 10 km; 21,097 km; 42,195 km; revezamento de maratona (4 pessoas)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://runbahamas.net/event/run-bahamas-marathon/",
+      "signup_url": "https://runsignup.com/Race/BS/Nassau/RunBahamas",
+      "article_url": "",
+      "checked_at": "2026-11-24",
+      "visual_code": "internacional-caribe"
     },
     {
       "race_name": "Ultra Maratón El Salvador 2027",
@@ -4411,6 +4487,25 @@
       "visual_code": "internacional-asia"
     },
     {
+      "race_name": "AUA Rohrman Trail Fest 2027",
+      "edition": "2027",
+      "start_date": "2027-04-10",
+      "end_date": "",
+      "country": "Antígua e Barbuda",
+      "state_code": "",
+      "city": "Morris Bay, Antigua",
+      "region": "América Central",
+      "modalities": "Trail | Caminhada | Rua",
+      "distances": "Trail 7 km; 17 km; 25 km; 50 km; caminhada/corrida de rua 5 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://rohrmanantigua.com/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-24",
+      "visual_code": "internacional-caribe"
+    },
+    {
       "race_name": "Canberra Times Marathon Festival 2027",
       "edition": "2027",
       "start_date": "2027-04-10",
@@ -5454,6 +5549,25 @@
       "article_url": "",
       "checked_at": "2026-11-11",
       "visual_code": "brasil-sp"
+    },
+    {
+      "race_name": "Belize Backyard Ultra 2027",
+      "edition": "1ª edição (2027)",
+      "start_date": "2027-05-15",
+      "end_date": "",
+      "country": "Belize",
+      "state_code": "",
+      "city": "Belmopan",
+      "region": "América Central",
+      "modalities": "Trail | Ultramaratona",
+      "distances": "6,706 km por volta (formato backyard)",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://totaltimebz.com/event/belize-backyard-ultra-2/",
+      "signup_url": "",
+      "article_url": "",
+      "checked_at": "2026-11-24",
+      "visual_code": "internacional-america-central"
     },
     {
       "race_name": "Correndo para o Pão de Açúcar — 2027-05",
@@ -6632,6 +6746,25 @@
       "article_url": "",
       "checked_at": "2026-11-12",
       "visual_code": "brasil-go"
+    },
+    {
+      "race_name": "Ultramaratona dos Perdidos 2027",
+      "edition": "2027",
+      "start_date": "2027-07-17",
+      "end_date": "",
+      "country": "Brasil",
+      "state_code": "PR",
+      "city": "Tijucas do Sul",
+      "region": "América do Sul",
+      "modalities": "Trail",
+      "distances": "13 km; 27 km; 50 km",
+      "status": "Validada",
+      "publish_flag": "Sim",
+      "official_url": "https://lmproevento.com.br/perdidos/",
+      "signup_url": "https://lmproevento.com.br/perdidos/",
+      "article_url": "",
+      "checked_at": "2026-11-24",
+      "visual_code": "brasil-pr"
     },
     {
       "race_name": "WUU2K Wellington Urban Ultra Marathon 2027",
